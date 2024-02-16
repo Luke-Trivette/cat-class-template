@@ -1,5 +1,5 @@
 #Revmoe pass and complete the cat class
-class Cat():
+class Cat:
     def __init__(self, name="Unknown", age=0):
         self.name = name
         self.age = age
